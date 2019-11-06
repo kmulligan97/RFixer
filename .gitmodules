@@ -1,0 +1,3 @@
+[submodule "RegFixer-Frontend"]
+	path = RegFixer-Frontend
+	url = https://github.com/HenryYihengXu/RegFixer-Frontend.git
